@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a high school student from Washington State. I'm currently working on a variety of projects relating to my interests in Computational Linguistics and Data Science, and also developing solutions to some everyday problems I face. *Portfolio website is under construction*
+I'm a high school student from Washington State. *Portfolio website is under construction*
+ - 💪 I'm currently working on... my personal portfolio website, a Wordle clone, and an audio player app
+ - 💭 I'm interested in... Computational Linguistics, Data Science, and community service
