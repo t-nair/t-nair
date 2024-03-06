@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State. *Portfolio website is under construction*
- - 💪 I'm currently working on... my personal portfolio website and a Wordle clone app!
+ - 💪 I'm currently working on... my personal portfolio website and a data analysis project!
  - 💭 I'm interested in... Computational Linguistics, Data Science, and community service.
  - 🌱 I'm currently learning... mathematics for Data Science and React Native!
  - 👯 I’m looking to collaborate on ... any interesting projects involving Data Science for community service.
