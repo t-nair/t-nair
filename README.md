@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State. *Portfolio website is under construction*
- - 💪 I'm currently working on... my personal portfolio website and a physics simulator!
+ - 💪 I'm currently working on... my personal portfolio website and a fluid simulation!
  - 💭 I'm interested in... Computational Linguistics, Data Science, and community service.
- - 🌱 I'm currently learning... fluid dynamics (for the simulator) and C++ for competitive programming!
+ - 🌱 I'm currently learning... basic fluid dynamics (for the simulation) and C++ for competitive programming!
  - 👯 I’m looking to collaborate on ... any projects involving Data Science for community service.
