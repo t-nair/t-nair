@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State. *Portfolio website is under construction*
- - 💪 I'm currently working on... my personal portfolio website and a board game AI (undecided which board game)!
+ - 💪 I'm currently working on... my personal portfolio website and a chaturanga engine!
  - 💭 I'm interested in... Computational Linguistics, Data Science, and community service.
- - 🌱 I'm currently learning... AI for playing board games and C++ for competitive programming!
+ - 🌱 I'm currently learning... chess engine logic and C++ for competitive programming!
  - 👯 I’m looking to collaborate on ... any projects involving Data Science for community service or NLP/ML projects.
