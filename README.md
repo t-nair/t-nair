@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🦑
 
 <!--
 **t-nair/t-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a high school student from Washington State. *Portfolio website is under construction*
- - 💪 I'm currently working on... my personal portfolio website and a chaturanga engine!
- - 💭 I'm interested in... Computational Linguistics, Data Science, and community service.
- - 🌱 I'm currently learning... chess engine logic and C++ for competitive programming!
- - 👯 I’m looking to collaborate on ... any projects involving Data Science for community service or NLP/ML projects.
+I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
+ - Projects in Progress: chaturanga engine, potential RAG research
+ - Interests: Computational Linguistics, Data Science, and community service
+ - Currently Learning: chess engine logic and C++ for competitive programming
