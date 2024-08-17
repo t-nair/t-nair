@@ -18,4 +18,6 @@ I'm a high school student from Washington State, interested in the intersection 
  - Projects in Progress: Chaturanga Engine
  - Interests: Computational Linguistics, Data Science, Community Service
  - Currently Learning: Chess Engine Logic, Deep Learning Techniques
+
+
 Feel free to reach out, I'd love to collaborate on anything NLP-related! 
