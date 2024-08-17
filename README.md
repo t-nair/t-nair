@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
- - Projects in Progress: chaturanga engine, potential RAG research
- - Interests: Computational Linguistics, Data Science, and community service
- - Currently Learning: chess engine logic and C++ for competitive programming
+ - Projects in Progress: Chaturanga Engine
+ - Interests: Computational Linguistics, Data Science, and Community Service
+ - Currently Learning: Chess engine logic, Deep learning techniques
