@@ -24,6 +24,6 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617
 
 Working on being more active on here!
 
-[![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-nair&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+[![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-nair&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
