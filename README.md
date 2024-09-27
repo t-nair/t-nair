@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
- - 🦞 Projects in Progress: Chaturanga Engine
+ - 🦞 Projects in Progress: Phonologicle, (potential) Chaturanga Engine
  - 🐬 Interests: Computational Linguistics, Data Science, Community Service
  - 🐢 Currently Learning: Chess Engine Logic, Deep Learning Techniques
 
