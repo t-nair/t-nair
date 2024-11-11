@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
  - 🦞 Projects in Progress: Phonologicle, Chess Engine Dev, Leetcoding
  - 🐬 Interests: Computational Linguistics, Data Science/ML, Community Service
- - 🐢 Currently Learning: Chess Engine Logic, Deep Learning Techniques, DS/A 
+ - 🐢 Currently Learning: Chess Engine Logic, Deep Learning Techniques, DS/A
 
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/), I'd love to collaborate on anything ML-related!🦈
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/), I'd love to collaborate on anything ML-related! 🦈
 
 [![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-nair&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
