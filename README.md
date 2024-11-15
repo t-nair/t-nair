@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
- - 🦞 Projects in Progress: Phonologicle, Leetcoding
- - 🐬 Interests: Computational Linguistics, Data Science/ML, Community Service
+ - 🦞 Projects in Progress: Phonologicle, 3D Fractal Generation, Leetcoding
+ - 🐬 Interests: Computational Linguistics, Data Science/ML, Physics Simulations, Community Service
  - 🐢 Currently Learning: Reinforcement Learning, DS/A
 
 
