@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
- - 🦞 Projects in Progress: Phonologicle, 3D Fractal Generation, Leetcoding
+ - 🦞 Projects in Progress: Phonologicle (wordle but for phonology)
  - 🐬 Interests: Computational Linguistics, Data Science/ML, Physics Simulations, Community Service
- - 🐢 Currently Learning: Reinforcement Learning, DS/A
+ - 🐢 Currently Learning: Reinforcement Learning
 
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/), I'd love to collaborate on anything ML-related! 🦈
