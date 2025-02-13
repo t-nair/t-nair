@@ -1,4 +1,4 @@
-### Hello! 🦑
+### Hello!
 
 <!--
 **t-nair/t-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
- - 🦞 Projects in Progress: Phonologicle (wordle but for phonology)
- - 🐬 Interests: Computational Linguistics, Data Science/ML, Physics Simulations, Community Service
- - 🐢 Currently Learning: Reinforcement Learning
+ - Interests: Computational Linguistics, Data Science/ML, Physics Simulations, Community Service
 
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/), I'd love to collaborate on anything ML-related! 🦈
-
-[![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-nair&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/), I'd love to collaborate on anything ML-related!
