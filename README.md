@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a high school student from Washington State, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
- - Interests: Computational Linguistics, Data Science/ML, Physics Simulations, Community Service
+I'm a rising college freshman at Johns Hopkins, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
+ - Interests: Computational Linguistics, Data Science/ML, Community Service
 
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/), I'd love to collaborate on anything ML-related!
