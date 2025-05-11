@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - Rising college freshman at Johns Hopkins
 - Interests: Computational Linguistics, Data Science/ML, Community Service
+- Working on: Automated Accessibility Enhancer for PPT Presentations @ UW, Research @ Levy Lab
 - [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
