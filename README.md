@@ -1,4 +1,4 @@
-### Hello!
+#### About Me
 
 <!--
 **t-nair/t-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a rising college freshman at Johns Hopkins, interested in the intersection between Computer Science (specifically Machine Learning) and Linguistics!
- - Interests: Computational Linguistics, Data Science/ML, Community Service
-
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/), I'd love to collaborate on anything ML-related!
+- Rising college freshman at Johns Hopkins
+- Interests: Computational Linguistics, Data Science/ML, Community Service
+- [LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
