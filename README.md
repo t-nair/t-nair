@@ -1,4 +1,4 @@
-#### About Me
+### About Me
 
 <!--
 **t-nair/t-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
