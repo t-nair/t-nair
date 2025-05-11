@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Class of 2029 @ Johns Hopkins
+- Class of 2029 @ Johns Hopkins (likely CompE and Cog Sci)
 - Interests: Computational Linguistics, Data Science/ML, Community Service
 - Working on:
   -  Automated Accessibility Enhancer for PPT Presentations @ UW
