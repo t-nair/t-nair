@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Class of 2029 @ Johns Hopkins (CompE and likely Cog Sci double major with a possible Math minor)
-- Interests: Computational Linguistics, Data Science/ML, Community Service
+- Interests: AI/ML (Generative Models, RL, NLP), Research, Accessibility, Quantitative Methods
 - Working on:
   -  Automated Accessibility Enhancer for PPT Presentations @ UW
   -  Research @ Levy Lab
