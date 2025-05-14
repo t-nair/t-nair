@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Working on:
   -  Automated Accessibility Enhancer for PPT Presentations @ UW
   -  Research @ Levy Lab
-  -  [Current Side Project](https://github.com/t-nair/black-scholes-model)
+  -  [Current Side Project](https://github.com/t-nair/hybrid-bsm-pricer)
 - [Reach out via LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
 - [Check out my YouTube channel](https://www.youtube.com/@MLinguist)
