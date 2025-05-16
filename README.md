@@ -20,5 +20,7 @@ Here are some ideas to get you started:
   -  Automated Accessibility Enhancer for PPT Presentations @ UW
   -  Research @ Levy Lab
   -  [Current Side Project](https://github.com/t-nair/hybrid-bsm-pricer)
+- [Personal Website](https://t-nair.github.io/)
 - [Reach out via LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
 - [Check out my YouTube channel](https://www.youtube.com/@MLinguist)
+  
