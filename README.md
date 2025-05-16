@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Class of 2029 @ Johns Hopkins (CompE and likely Cog Sci double major with a possible Math minor)
+- Class of 2029 @ Johns Hopkins (CompE major with a possible Math minor)
 - Interests: AI/ML (Generative Models, Agents, RL, NLP), Research, Accessibility, Quantitative Methods
 - Working on:
   -  Automated Accessibility Enhancer for PPT Presentations @ UW
