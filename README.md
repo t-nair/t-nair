@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Interests: AI/ML (Generative Models, Agents, RL, NLP), Research, Accessibility, Quantitative Methods
 - Working on:
   -  Automated Accessibility Enhancer for PPT Presentations @ UW
-  -  Research @ Levy Lab
+  -  Research @ Levy Lab (Mentor Track 2025, Advanced Research Track 2024)
   -  [Current Side Project](https://github.com/t-nair/hybrid-bsm-pricer)
 - [Personal Website](https://t-nair.github.io/)
 - [Reach out via LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
