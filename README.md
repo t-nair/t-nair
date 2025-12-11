@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- CompE @ Johns Hopkins (Class of 2029)
-- Interests: AI/ML (Generative Models, Agents, RL, NLP), Research, Accessibility, Quantitative Methods
+- CompE & EE @ Johns Hopkins (Class of 2029)
+- Interests: AI/ML (Generative Models, Agents, RL, NLP), Research, Accessibility
 - Working on:
   -  Automated Accessibility Enhancer for PPT Presentations @ UW
-  -  Research @ Levy Lab (Mentor Track 2025, Advanced Research Track 2024)
+  -  Research @ ISLE Lab (Johns Hopkins CLSP)
 - [Personal Website](https://t-nair.github.io/)
 - [Reach out via LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
 - [Check out my YouTube channel](https://www.youtube.com/@MLinguist)
