@@ -5,6 +5,7 @@ My interests include:
 -  Embodied AI/world models
 -  AI for medicine
 -  Interpretability
+-  Sustainable systems
 
 I'm currently working on:
 -  Automated Accessibility Enhancer for PPT Presentations @ UW with Dr. Lalitha Subramanian
