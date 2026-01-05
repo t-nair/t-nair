@@ -1,4 +1,4 @@
-### About Me
+### 🦈 About Me
 Hi, I'm Tanya! I'm an undergraduate (class of 2029) at Johns Hopkins University, double majoring in Electrical and Computer Engineering.
 My interests include:
 -  Natural Language Processing (sentiment analysis, RAG, LLM evals)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Links
+### 🐙 Links
 - [Personal Website](https://t-nair.github.io/)
 - [Reach out via LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
 - [Check out my YouTube channel](https://www.youtube.com/@MLinguist)
