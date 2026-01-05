@@ -1,4 +1,14 @@
 ### About Me
+Hi, I'm Tanya! I'm an undergraduate (class of 2029) at Johns Hopkins University, double majoring in Electrical and Computer Engineering.
+My interests include:
+-  Natural Language Processing (sentiment analysis, RAG, LLM evals)
+-  Embodied AI/world models
+-  AI for medicine
+-  Interpretability
+
+I'm currently working on:
+-  Automated Accessibility Enhancer for PPT Presentations @ UW with Dr. Lalitha Subramanian
+-  Research @ ISLE Lab (Johns Hopkins CLSP) with Nikhil Sharma and Dr. Ziang Xiao
 
 <!--
 **t-nair/t-nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- CompE & EE @ Johns Hopkins (Class of 2029)
-- Interests: AI/ML (Generative Models, Agents, RL, NLP), Research, Accessibility
-- Working on:
-  -  Automated Accessibility Enhancer for PPT Presentations @ UW
-  -  Research @ ISLE Lab (Johns Hopkins CLSP)
+### Links
 - [Personal Website](https://t-nair.github.io/)
 - [Reach out via LinkedIn](https://www.linkedin.com/in/tanya-nair-617473287/)
 - [Check out my YouTube channel](https://www.youtube.com/@MLinguist)
