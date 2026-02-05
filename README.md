@@ -12,6 +12,7 @@ Hi, I'm Tanya! I'm an undergraduate at Johns Hopkins University, double majoring
 I like building tools that move from theory and research ideas to real-world deployment. Currently, I’m working on:
 - **Automated Accessibility Enhancer for PPT Presentations** @ UW with Dr. Lalitha Subramanian — an open-source script. Email [tanyan07@uw.edu](mailto:tanyan07@uw.edu) to get involved.
 - **Research @ ISLE Lab** (Johns Hopkins CLSP) with Nikhil Sharma and Dr. Ziang Xiao — benchmarking reliability and bias in multilingual LLMs as information flows across languages.
+- Building a Game Boy Advance emulator from scratch with my little brother 
 
 In the past, I've:
 - Led interns training foundation models for cervical cancer screening and spatial transcriptomics at Dartmouth-Hitchcock’s Levy Lab
