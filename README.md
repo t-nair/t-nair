@@ -1,17 +1,9 @@
-<h1 align="center">Tanya Nair 🦑</h1>
+<h2 align="center">Tanya Nair 🦑</h2>
 
 <p align="center">
-  AI technologist @ Chewy · AI research @ JHU CLSP<br>
-  Electrical & Computer Engineering @ Johns Hopkins
+  AI Technologist @ Chewy · AI Research @ JHU CLSP · ECE @ Johns Hopkins<br>
+  <a href="https://www.linkedin.com/in/tanya-nair-617473287/">LinkedIn</a> · <a href="https://twitter.com/t_nair_">X</a> · <a href="https://t-nair.github.io">Website</a>
 </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tanya-nair-617473287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/t_nair_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://t-nair.github.io"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-</p>
-
----
 
 ## About Me
 - 🛰️ Studying Electrical & Computer Engineering at Johns Hopkins, working across software, ML, and hardware
@@ -22,7 +14,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="aquarium.svg" alt="Animated aquarium of my skills: Python, Java, C/C++, R, PyTorch, LangChain, Neo4j, n8n, Claude Code, spaCy, React, Flask, Scrapy, AWS, Jenkins, Git, Linux, KiCad" width="100%">
+  <img src="aquarium.svg" alt="Animated aquarium of my skills: Python, Java, C/C++, R, PyTorch, LangChain, Neo4j, n8n, Claude Code, spaCy, React, Flask, Scrapy, AWS, Jenkins, Git, Linux, KiCad" width="80%">
 </p>
 
 <p align="center">
