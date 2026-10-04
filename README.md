@@ -1,4 +1,4 @@
-<h1 align="center">Tanya Nair 🦈</h1>
+<h1 align="center">Tanya Nair 🦑</h1>
 
 <p align="center">
   AI technologist @ Chewy · AI research @ JHU CLSP<br>
@@ -19,7 +19,6 @@
 - 🗣️ Researching NLP and multilingual LLMs at the Center for Language and Speech Processing (CLSP)
 
 ## Tech stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -27,4 +26,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
-![LeetCode stats](https://leetcode-stats-card.vercel.app/?username=t-nair)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-nair&layout=compact" height="160" />
+</p>
