@@ -2,7 +2,7 @@
 
 <p align="center">
   AI Technologist @ Chewy · AI Research @ JHU CLSP · ECE @ Johns Hopkins<br>
-  <a href="https://www.linkedin.com/in/tanya-nair-617473287/">LinkedIn</a> · <a href="https://twitter.com/t_nair_">X</a> · <a href="https://t-nair.github.io">Website</a>
+  <a href="https://www.linkedin.com/in/tanya-nair-617473287/">LinkedIn</a> · <a href="https://twitter.com/t_nair_">X</a> · <a href="https://tanya.runs-on.dev/">Website</a>
 </p>
 
 ## About Me
