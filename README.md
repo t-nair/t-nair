@@ -8,7 +8,7 @@
 ## About Me
 - 🛰️ Studying Electrical & Computer Engineering at Johns Hopkins, working across software, ML, and hardware
 - 🐾 Currently on co-op at Chewy's Data & AI Innovation Team in Seattle, building AI tooling for pet travel
-- 🗣️ Researching NLP and multilingual LLMs at the Center for Language and Speech Processing (CLSP)
+- 🗣️ Researching NLP and LLM simulations at the Center for Language and Speech Processing (CLSP)
 - 🦾 Automating accessibility remediation for higher education IT
 
 ## Tech Stack
