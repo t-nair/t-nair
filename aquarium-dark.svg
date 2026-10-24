@@ -9,19 +9,26 @@
     .tank { fill: none; stroke: var(--line); }
     .depth { stroke: var(--line); stroke-dasharray: 2 6; }
     .f { animation: drift ease-in-out infinite alternate; }
+    /* swimmers: out, turn, back, turn. Each has its own odd cycle (--d) so turns look random. */
+    .s { animation: swim var(--d) ease-in-out var(--dl) infinite; }
+    .s .r { animation: face-r var(--d) step-end var(--dl) infinite; }
+    .s .l { opacity: 0; animation: face-l var(--d) step-end var(--dl) infinite; }
     .bub { animation: rise linear infinite; }
     @keyframes drift { from { transform: translateX(0); } to { transform: translateX(28px); } }
+    @keyframes swim { 0%, 4% { transform: translateX(0); } 46%, 54% { transform: translateX(48px); } 96%, 100% { transform: translateX(0); } }
+    @keyframes face-r { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @keyframes face-l { 0% { opacity: 0; } 50% { opacity: 1; } }
     @keyframes rise { from { transform: translateY(0); opacity: 1; } to { transform: translateY(-260px); opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .f, .bub { animation: none; } }
+    @media (prefers-reduced-motion: reduce) { .f, .s, .s .r, .s .l, .bub { animation: none; } }
   </style>
 
   <rect class="tank" x="0.5" y="0.5" width="899" height="359" rx="10"/>
 
   <!-- 0 m: sunlight zone · languages -->
   <text class="zone" x="20" y="26">~ 0 m · sunlight zone · languages</text>
-  <g class="f" style="animation-duration:5.5s"><text x="70" y="54">&gt;&lt;(((º&gt; <tspan class="name">python</tspan></text></g>
+  <g class="s" style="--d:26s;--dl:-4s"><text class="r" x="70" y="54">&gt;&lt;(((º&gt; <tspan class="name">python</tspan></text><text class="l" x="70" y="54">&lt;º)))&gt;&lt; <tspan class="name">python</tspan></text></g>
   <g class="f" style="animation-duration:7s;animation-delay:-2s"><text x="270" y="70">&gt;&lt;(º&gt; <tspan class="name">java</tspan></text></g>
-  <g class="f" style="animation-duration:6s;animation-delay:-4s"><text x="430" y="52">&gt;&lt;(º&gt; <tspan class="name">c/c++</tspan></text></g>
+  <g class="s" style="--d:34s;--dl:-18s"><text class="r" x="430" y="52">&gt;&lt;(º&gt; <tspan class="name">c/c++</tspan></text><text class="l" x="430" y="52">&lt;º)&gt;&lt; <tspan class="name">c/c++</tspan></text></g>
   <g class="f" style="animation-duration:8s;animation-delay:-1s"><text x="590" y="70">&gt;&lt;&gt; <tspan class="name">r</tspan></text></g>
   <!-- leaf sheep: solar-powered, so it stays in the sun -->
   <text x="700" y="30">  \ /</text>
@@ -35,10 +42,10 @@
 
   <!-- 200 m: twilight zone · ai / ml -->
   <text class="zone" x="20" y="110">~ 200 m · twilight zone · ai / ml</text>
-  <g class="f" style="animation-duration:6.5s;animation-delay:-3s"><text x="50" y="138">&gt;&lt;(((º&gt; <tspan class="name">pytorch</tspan></text></g>
+  <g class="s" style="--d:38s;--dl:-10s"><text class="r" x="50" y="138">&gt;&lt;(((º&gt; <tspan class="name">pytorch</tspan></text><text class="l" x="50" y="138">&lt;º)))&gt;&lt; <tspan class="name">pytorch</tspan></text></g>
   <g class="f" style="animation-duration:7.5s;animation-delay:-5s"><text x="270" y="154">&gt;&lt;((º&gt; <tspan class="name">langchain</tspan></text></g>
-  <g class="f" style="animation-duration:6s;animation-delay:-1.5s"><text x="500" y="136">&gt;&lt;(((º&gt; <tspan class="name">claude code</tspan></text></g>
-  <g class="f" style="animation-duration:8.5s;animation-delay:-6s"><text x="120" y="176">&gt;&lt;(º&gt; <tspan class="name">spacy</tspan></text></g>
+  <g class="s" style="--d:30s;--dl:-22s"><text class="r" x="500" y="136">&gt;&lt;(((º&gt; <tspan class="name">claude code</tspan></text><text class="l" x="500" y="136">&lt;º)))&gt;&lt; <tspan class="name">claude code</tspan></text></g>
+  <g class="s" style="--d:46s;--dl:-14s"><text class="r" x="120" y="176">&gt;&lt;(º&gt; <tspan class="name">spacy</tspan></text><text class="l" x="120" y="176">&lt;º)&gt;&lt; <tspan class="name">spacy</tspan></text></g>
   <g class="f" style="animation-duration:7s;animation-delay:-2.5s"><text x="440" y="178">&gt;&lt;&gt; <tspan class="name">neo4j</tspan></text></g>
   <g class="f" style="animation-duration:5.5s;animation-delay:-4.5s"><text x="640" y="168">&gt;&lt;&gt; <tspan class="name">n8n</tspan></text></g>
 
@@ -46,18 +53,18 @@
 
   <!-- 1000 m: midnight zone · dev -->
   <text class="zone" x="20" y="218">~ 1000 m · midnight zone · dev</text>
-  <g class="f" style="animation-duration:7s"><text x="70" y="244">&gt;&lt;(º&gt; <tspan class="name">react</tspan></text></g>
+  <g class="s" style="--d:28s;--dl:-6s"><text class="r" x="70" y="244">&gt;&lt;(º&gt; <tspan class="name">react</tspan></text><text class="l" x="70" y="244">&lt;º)&gt;&lt; <tspan class="name">react</tspan></text></g>
   <g class="f" style="animation-duration:8s;animation-delay:-3s"><text x="280" y="250">&gt;&lt;&gt; <tspan class="name">flask</tspan></text></g>
-  <g class="f" style="animation-duration:6.5s;animation-delay:-5s"><text x="470" y="242">&gt;&lt;&gt; <tspan class="name">scrapy</tspan></text></g>
+  <g class="s" style="--d:42s;--dl:-26s"><text class="r" x="470" y="242">&gt;&lt;&gt; <tspan class="name">scrapy</tspan></text><text class="l" x="470" y="242">&lt;&gt;&lt; <tspan class="name">scrapy</tspan></text></g>
 
   <line class="depth" x1="20" y1="266" x2="880" y2="266"/>
 
   <!-- 4000 m: abyss · infra + hardware -->
   <text class="zone" x="20" y="288">~ 4000 m · abyss · infra + hardware</text>
   <g class="f" style="animation-duration:8s;animation-delay:-1s"><text x="50" y="316">&gt;&lt;&gt; <tspan class="name">aws</tspan></text></g>
-  <g class="f" style="animation-duration:7s;animation-delay:-4s"><text x="200" y="322">&gt;&lt;&gt; <tspan class="name">jenkins</tspan></text></g>
+  <g class="s" style="--d:36s;--dl:-12s"><text class="r" x="200" y="322">&gt;&lt;&gt; <tspan class="name">jenkins</tspan></text><text class="l" x="200" y="322">&lt;&gt;&lt; <tspan class="name">jenkins</tspan></text></g>
   <g class="f" style="animation-duration:9s;animation-delay:-2s"><text x="380" y="314">&gt;&lt;&gt; <tspan class="name">git</tspan></text></g>
-  <g class="f" style="animation-duration:6.5s;animation-delay:-6s"><text x="520" y="322">&gt;&lt;&gt; <tspan class="name">linux</tspan></text></g>
+  <g class="s" style="--d:32s;--dl:-20s"><text class="r" x="520" y="322">&gt;&lt;&gt; <tspan class="name">linux</tspan></text><text class="l" x="520" y="322">&lt;&gt;&lt; <tspan class="name">linux</tspan></text></g>
   <g class="f" style="animation-duration:7.5s;animation-delay:-3s"><text x="680" y="314">&gt;&lt;&gt; <tspan class="name">kicad</tspan></text></g>
 
   <!-- bubbles rising from the floor -->
