@@ -14,7 +14,10 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="aquarium.svg" alt="Animated aquarium of my skills: Python, Java, C/C++, R, PyTorch, LangChain, Neo4j, n8n, Claude Code, spaCy, React, Flask, Scrapy, AWS, Jenkins, Git, Linux, KiCad" width="80%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="aquarium-dark.svg">
+    <img src="aquarium-light.svg" alt="Ocean of my skills, by depth. Sunlight zone, languages: Python, Java, C/C++, R. Twilight zone, AI/ML: PyTorch, LangChain, Claude Code, spaCy, Neo4j, n8n. Midnight zone, dev: React, Flask, Scrapy. Abyss, infra and hardware: AWS, Jenkins, Git, Linux, KiCad." width="100%">
+  </picture>
 </p>
 
 <p align="center">
