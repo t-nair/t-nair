@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" role="img" aria-label="Ocean of my skills, by depth. Sunlight zone, languages: Python, Java, C/C++, R. Twilight zone, AI/ML: PyTorch, LangChain, Claude Code, spaCy, Neo4j, n8n. Midnight zone, dev: React, Flask, Scrapy. Abyss, infra and hardware: AWS, Jenkins, Git, Linux, KiCad.">
+  <style>
+    :root { --ink: #1C1A17; --soft: #68645C; --faint: rgba(28, 26, 23, 0.35); --line: rgba(28, 26, 23, 0.16); }
+    text { font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; fill: var(--ink); white-space: pre; }
+    .zone { font-size: 12px; fill: var(--faint); }
+    .soft { fill: var(--soft); }
+    .faint { fill: var(--faint); }
+    .name { font-weight: 600; }
+    .tank { fill: none; stroke: var(--line); }
+    .depth { stroke: var(--line); stroke-dasharray: 2 6; }
+    .f { animation: drift ease-in-out infinite alternate; }
+    .bub { animation: rise linear infinite; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(28px); } }
+    @keyframes rise { from { transform: translateY(0); opacity: 1; } to { transform: translateY(-260px); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .f, .bub { animation: none; } }
+  </style>
+
+  <rect class="tank" x="0.5" y="0.5" width="899" height="359" rx="10"/>
+
+  <!-- 0 m: sunlight zone · languages -->
+  <text class="zone" x="20" y="26">~ 0 m · sunlight zone · languages</text>
+  <g class="f" style="animation-duration:5.5s"><text x="70" y="54">&gt;&lt;(((º&gt; <tspan class="name">python</tspan></text></g>
+  <g class="f" style="animation-duration:7s;animation-delay:-2s"><text x="270" y="70">&gt;&lt;(º&gt; <tspan class="name">java</tspan></text></g>
+  <g class="f" style="animation-duration:6s;animation-delay:-4s"><text x="430" y="52">&gt;&lt;(º&gt; <tspan class="name">c/c++</tspan></text></g>
+  <g class="f" style="animation-duration:8s;animation-delay:-1s"><text x="590" y="70">&gt;&lt;&gt; <tspan class="name">r</tspan></text></g>
+  <!-- leaf sheep: solar-powered, so it stays in the sun -->
+  <text x="700" y="30">  \ /</text>
+  <text x="700" y="46"> (o o)}}}}   <tspan class="soft">← me</tspan></text>
+  <text x="700" y="62">  `-}}}}}'</text>
+  <!-- rock ledge growing out of the right wall -->
+  <text class="soft" x="684" y="74">__.--~~~~~~~~~~~~~~~~~~~</text>
+  <text class="faint" x="700" y="88">`-.,_,.-._,.-._,.-._,.-.</text>
+
+  <line class="depth" x1="20" y1="88" x2="670" y2="88"/>
+
+  <!-- 200 m: twilight zone · ai / ml -->
+  <text class="zone" x="20" y="110">~ 200 m · twilight zone · ai / ml</text>
+  <g class="f" style="animation-duration:6.5s;animation-delay:-3s"><text x="50" y="138">&gt;&lt;(((º&gt; <tspan class="name">pytorch</tspan></text></g>
+  <g class="f" style="animation-duration:7.5s;animation-delay:-5s"><text x="270" y="154">&gt;&lt;((º&gt; <tspan class="name">langchain</tspan></text></g>
+  <g class="f" style="animation-duration:6s;animation-delay:-1.5s"><text x="500" y="136">&gt;&lt;(((º&gt; <tspan class="name">claude code</tspan></text></g>
+  <g class="f" style="animation-duration:8.5s;animation-delay:-6s"><text x="120" y="176">&gt;&lt;(º&gt; <tspan class="name">spacy</tspan></text></g>
+  <g class="f" style="animation-duration:7s;animation-delay:-2.5s"><text x="440" y="178">&gt;&lt;&gt; <tspan class="name">neo4j</tspan></text></g>
+  <g class="f" style="animation-duration:5.5s;animation-delay:-4.5s"><text x="640" y="168">&gt;&lt;&gt; <tspan class="name">n8n</tspan></text></g>
+
+  <line class="depth" x1="20" y1="196" x2="880" y2="196"/>
+
+  <!-- 1000 m: midnight zone · dev -->
+  <text class="zone" x="20" y="218">~ 1000 m · midnight zone · dev</text>
+  <g class="f" style="animation-duration:7s"><text x="70" y="244">&gt;&lt;(º&gt; <tspan class="name">react</tspan></text></g>
+  <g class="f" style="animation-duration:8s;animation-delay:-3s"><text x="280" y="250">&gt;&lt;&gt; <tspan class="name">flask</tspan></text></g>
+  <g class="f" style="animation-duration:6.5s;animation-delay:-5s"><text x="470" y="242">&gt;&lt;&gt; <tspan class="name">scrapy</tspan></text></g>
+
+  <line class="depth" x1="20" y1="266" x2="880" y2="266"/>
+
+  <!-- 4000 m: abyss · infra + hardware -->
+  <text class="zone" x="20" y="288">~ 4000 m · abyss · infra + hardware</text>
+  <g class="f" style="animation-duration:8s;animation-delay:-1s"><text x="50" y="316">&gt;&lt;&gt; <tspan class="name">aws</tspan></text></g>
+  <g class="f" style="animation-duration:7s;animation-delay:-4s"><text x="200" y="322">&gt;&lt;&gt; <tspan class="name">jenkins</tspan></text></g>
+  <g class="f" style="animation-duration:9s;animation-delay:-2s"><text x="380" y="314">&gt;&lt;&gt; <tspan class="name">git</tspan></text></g>
+  <g class="f" style="animation-duration:6.5s;animation-delay:-6s"><text x="520" y="322">&gt;&lt;&gt; <tspan class="name">linux</tspan></text></g>
+  <g class="f" style="animation-duration:7.5s;animation-delay:-3s"><text x="680" y="314">&gt;&lt;&gt; <tspan class="name">kicad</tspan></text></g>
+
+  <!-- bubbles rising from the floor -->
+  <g class="bub" style="animation-duration:11s"><text x="830" y="330" class="faint">o</text></g>
+  <g class="bub" style="animation-duration:14s;animation-delay:-6s"><text x="840" y="336" class="faint">°</text></g>
+  <g class="bub" style="animation-duration:12s;animation-delay:-3s"><text x="852" y="330" class="faint">.</text></g>
+
+  <!-- sea floor -->
+  <text class="faint" x="10" y="350">.,.,..,.,.,..,.,.,.,..,.,.,..,.,.,.,..,.,.,..,.,.,.,..,.,.,..,.,.,.,..,.,.,..,.,.,.,..,.,.,..,.,.,..</text>
+</svg>
