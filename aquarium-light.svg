@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" role="img" aria-label="Ocean of my skills, by depth. Sunlight zone, languages: Python, Java, C/C++, R. Twilight zone, AI/ML: PyTorch, LangChain, Claude Code, spaCy, Neo4j, n8n. Midnight zone, dev: React, Flask, Scrapy. Abyss, infra and hardware: AWS, Jenkins, Git, Linux, KiCad.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" role="img" aria-label="Ocean of my skills, by depth. Sunlight zone, languages: Python, Java, C/C++, R. Twilight zone, AI/ML: PyTorch, LangChain, Claude Code, spaCy, Neo4j, n8n. Midnight zone, dev: React, Flask, Scrapy, SonarQube. Abyss, infra and hardware: AWS, Jenkins, Git, Linux, KiCad.">
   <style>
     :root { --ink: #1C1A17; --soft: #68645C; --faint: rgba(28, 26, 23, 0.35); --line: rgba(28, 26, 23, 0.16); }
     text { font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; fill: var(--ink); white-space: pre; }
@@ -56,6 +56,7 @@
   <g class="s" style="--d:28s;--dl:-6s"><text class="r" x="70" y="244">&gt;&lt;(º&gt; <tspan class="name">react</tspan></text><text class="l" x="70" y="244">&lt;º)&gt;&lt; <tspan class="name">react</tspan></text></g>
   <g class="f" style="animation-duration:8s;animation-delay:-3s"><text x="280" y="250">&gt;&lt;&gt; <tspan class="name">flask</tspan></text></g>
   <g class="s" style="--d:42s;--dl:-26s"><text class="r" x="470" y="242">&gt;&lt;&gt; <tspan class="name">scrapy</tspan></text><text class="l" x="470" y="242">&lt;&gt;&lt; <tspan class="name">scrapy</tspan></text></g>
+  <g class="f" style="animation-duration:6.5s;animation-delay:-4s"><text x="660" y="250">&gt;&lt;(º&gt; <tspan class="name">sonarqube</tspan></text></g>
 
   <line class="depth" x1="20" y1="266" x2="880" y2="266"/>
 

@@ -16,13 +16,13 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="aquarium-dark.svg">
-    <img src="aquarium-light.svg" alt="Ocean of my skills, by depth. Sunlight zone, languages: Python, Java, C/C++, R. Twilight zone, AI/ML: PyTorch, LangChain, Claude Code, spaCy, Neo4j, n8n. Midnight zone, dev: React, Flask, Scrapy. Abyss, infra and hardware: AWS, Jenkins, Git, Linux, KiCad." width="100%">
+    <img src="aquarium-light.svg" alt="Ocean of my skills, by depth. Sunlight zone, languages: Python, Java, C/C++, R. Twilight zone, AI/ML: PyTorch, LangChain, Claude Code, spaCy, Neo4j, n8n. Midnight zone, dev: React, Flask, Scrapy, SonarQube. Abyss, infra and hardware: AWS, Jenkins, Git, Linux, KiCad." width="100%">
   </picture>
 </p>
 
 <p align="center">
   <b>Languages:</b> Python · Java · C/C++ · R<br>
   <b>AI / ML:</b> PyTorch · LangChain · Neo4j · n8n · Claude Code · spaCy<br>
-  <b>Dev:</b> React · Flask · Scrapy<br>
+  <b>Dev:</b> React · Flask · Scrapy · SonarQube<br>
   <b>Infra & hardware:</b> AWS · Jenkins · Git · Linux · KiCad
 </p>
